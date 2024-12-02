@@ -1,0 +1,8 @@
+name: StarBoard
+description: Create Star Boards In Your Discord Server.
+version: 2.0.0
+
+config:
+  reaction: ""
+  reactionCount: 
+  webhookUrl: ""
